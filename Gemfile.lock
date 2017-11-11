@@ -306,6 +306,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-assets
+  jekyll-feed
   jekyll-paginate
   jekyll-pandoc
   jekyll-scholar

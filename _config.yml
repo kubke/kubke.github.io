@@ -3,6 +3,7 @@ plugins:
 - jekyll-paginate
   - jekyll-pandoc
   -jekyll-assets
+  - jekyll-feed
   
 encoding: utf-8
 

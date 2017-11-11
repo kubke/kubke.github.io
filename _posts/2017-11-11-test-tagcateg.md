@@ -2,6 +2,8 @@
 layout: post
 title: test post
 tags: 
-- test tag
-category: test category
+- testtag
+category: testcat
 ---
+
+tet tag and cat

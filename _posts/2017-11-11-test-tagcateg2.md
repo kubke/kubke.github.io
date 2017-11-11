@@ -1,9 +1,8 @@
 ---
 layout: post
-title: test post2
-category: testcat
-tags:
-- testag
+title: test post3
+
+
 ---
 
 testing cats and tags

@@ -1,3 +1,33 @@
 theme: jekyll-theme-tactile
 plugins: 
 - jekyll-paginate
+  - jekyll-pandoc
+  
+encoding: utf-8
+
+## Markdown Parser 
+markdown: pandoc
+markdown_ext:  markdown,md #,Rmd,rmd
+pandoc:
+  extensions: 
+    - smart
+    - mathjax
+#    - template: 'assets/datauri_template.html'   # Use with 'self-contained' to avoid header text in body
+#    - self-contained                             # Archive images in posts as URIs.  Very slow, for archiving only.  
+#    - mathml                                     # Use mathml for equations (Archival, HTML5/XML valid syntax)
+
+twitter_api: yes
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - .travis.yml
+  - _posts/source/
+  - assets/_bootstrap-3.1.1
+  - _garb.yml
+  - _twitter.yml
+  - DESCRIPTION
+
+knitr:
+  dev: svg

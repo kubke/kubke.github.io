@@ -1,0 +1,8 @@
+---
+title : Sitemap
+---
+{% for page in site.pages %} 
+http://kubke.github.io/{{ page.url }} {% endfor %}
+
+{% for post in site.posts %} 
+http://kubke.github.io/{{ post.url }} {% endfor %}

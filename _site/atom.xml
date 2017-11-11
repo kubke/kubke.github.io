@@ -4,7 +4,7 @@
  <title>kubke.github.io</title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2017-11-11T20:12:54+13:00</updated>
+ <updated>2017-11-11T20:17:11+13:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -18,6 +18,18 @@
    <id>http://localhost:4000/2017/11/11/test</id>
    
    <content type="html">&lt;p&gt;test&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>test post2</title>
+   <link href="/testcat/2017/11/11/test-tagcateg2.html"/>
+   <updated>2017-11-11T00:00:00+13:00</updated>
+   <id>http://localhost:4000/testcat/2017/11/11/test-tagcateg2</id>
+    
+   <category term="/categories.html#testcat" label="testcat"/>
+   
+   <content type="html">&lt;p&gt;testing cats and tags&lt;/p&gt;
 </content>
  </entry>
  

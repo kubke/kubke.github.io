@@ -2,6 +2,7 @@ theme: jekyll-theme-tactile
 plugins: 
 - jekyll-paginate
   - jekyll-pandoc
+  -jekyll-assets
   
 encoding: utf-8
 

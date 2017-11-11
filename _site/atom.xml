@@ -4,7 +4,7 @@
  <title>kubke.github.io</title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2017-11-11T19:22:11+13:00</updated>
+ <updated>2017-11-11T19:25:54+13:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,11 +13,12 @@
  
  <entry>
    <title>test post</title>
-   <link href="/2014/12/14/test.markup"/>
+   <link href="/2014/12/14/test.html"/>
    <updated>2014-12-14T00:00:00+13:00</updated>
    <id>http://localhost:4000/2014/12/14/test</id>
    
-   <content type="html">testing</content>
+   <content type="html">&lt;p&gt;testing&lt;/p&gt;
+</content>
  </entry>
  
 </feed>

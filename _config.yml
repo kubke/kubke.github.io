@@ -20,7 +20,7 @@ pandoc:
 
 twitter_api: yes
 
-permalink: /:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
 
 exclude:
   - Gemfile

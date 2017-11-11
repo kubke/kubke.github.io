@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>kubke.github.io</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href=""/>
+ <updated>2017-11-11T15:46:13+13:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+ </author>
+ <rights>CC0</rights>
+ 
+ <entry>
+   <title>test post</title>
+   <link href="/2014/12/14/test.markup"/>
+   <updated>2014-12-14T00:00:00+13:00</updated>
+   <id>http://localhost:4000/2014/12/14/test</id>
+   
+   <content type="html">testing</content>
+ </entry>
+ 
+</feed>

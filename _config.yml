@@ -8,7 +8,7 @@ plugins:
 encoding: utf-8
 
 ## Markdown Parser 
-markdown: pandoc
+
 markdown_ext:  markdown,md #,Rmd,rmd
 pandoc:
   extensions: 

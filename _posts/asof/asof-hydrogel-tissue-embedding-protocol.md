@@ -13,7 +13,7 @@ Sourced from [Advanced CLARITY for rapid and high-resolution imaging of intact t
 
 Ref: Raju Tomer, Li Ye, Brian Hsueh, Karl Deisseroth (2014) Advanced CLARITY for rapid and high-resolution imaging of intact tissues. Nature Protocols (London) 9:1682.
 
-1. Prepare the HM solution.
+1. Prepare the HM solution.  
    a) Refer to reagent list below protocol.  
    b) Keep the HM solution and all ingredients used to prepare it, on ice - during preparation, storage and when in use.  
    c) Preparation is not time consuming, so these reagents can be prepared on the day before use - or can be prepared earlier than this and stored at -20°C (HM solution), room temperature (PBS), or 4°C (PFA) as they are stable.  

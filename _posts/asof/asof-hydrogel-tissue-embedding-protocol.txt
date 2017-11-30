@@ -11,6 +11,8 @@ author: Andrea Soffe
 
 Sourced from “Advanced CLARITY for rapid and high-resolution imaging of intact tissues”. Raju Tomer, Li Ye, Brian Hsueh & Karl Deisseroth. Nature Protocols. 2014. http://www.nature.com.ezproxy.auckland.ac.nz/articles/nprot.2014.123.pdf
 
+[Advanced CLARITY for rapid and high-resolution imaging of intact tissues](http://www.nature.com.ezproxy.auckland.ac.nz/articles/nprot.2014.123.pdf)
+
 1. Prepare the HM solution.
 Refer to reagent list below protocol.
 Keep the HM solution and all ingredients used to prepare it, on ice - during preparation, storage and when in use.

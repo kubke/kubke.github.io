@@ -9,7 +9,8 @@ author: Andrea Soffe
 
 # Hydrogel tissue embedding protocol
 
-Sourced from [Advanced CLARITY for rapid and high-resolution imaging of intact tissues](http://www.nature.com.ezproxy.auckland.ac.nz/articles/nprot.2014.123.pdf). Ref: Raju Tomer, Li Ye, Brian Hsueh, Karl Deisseroth (2014) Advanced CLARITY for rapid and high-resolution imaging of intact tissues. Nature Protocols (London) 9:1682.
+Sourced from [Advanced CLARITY for rapid and high-resolution imaging of intact tissues](http://www.nature.com.ezproxy.auckland.ac.nz/articles/nprot.2014.123.pdf).
+Ref: Raju Tomer, Li Ye, Brian Hsueh, Karl Deisseroth (2014) Advanced CLARITY for rapid and high-resolution imaging of intact tissues. Nature Protocols (London) 9:1682.
 
 1. Prepare the HM solution.
 Refer to reagent list below protocol.

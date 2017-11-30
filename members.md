@@ -4,12 +4,9 @@ title: Lab Members
 
 ---
 
-Lab Members
+# Lab Members:
 
-============
 
-Fabiana Kubke 
 
---------------
-
-test text
+## Fabiana Kubke:
+Something about me

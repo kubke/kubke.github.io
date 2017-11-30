@@ -16,11 +16,8 @@ Ref: Raju Tomer, Li Ye, Brian Hsueh, Karl Deisseroth (2014) Advanced CLARITY for
 1. Prepare the HM solution.
 
   a) Refer to reagent list below protocol.
-
   b) Keep the HM solution and all ingredients used to prepare it, on ice - during preparation, storage and when in use.
-
   c) Preparation is not time consuming, so these reagents can be prepared on the day before use - or can be prepared earlier than this and stored at -20°C (HM solution), room temperature (PBS), or 4°C (PFA) as they are stable.
-
   d) Before starting the tissue embedding, make sure that there is no precipitation floating in the HM solution.
 
 2. Dissect a chick embryo and label the cranial nerve ganglia with DiI.

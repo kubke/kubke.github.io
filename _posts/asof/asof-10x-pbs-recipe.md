@@ -17,7 +17,7 @@ To make a 500ml stock of 10x PBS:
 * Adjust pH to 7.4 with 1 N NaOH
 * Make up the volume to 500ml with distilled water
 
-Dilute 1:10 with distilled water before use and adjust pH if necessary.
+Dilute 1:10 with distilled water before use to make [1x PBS](https://github.com/ansoffe/kubke.github.io-1/blob/master/_posts/asof/asof-1x-pbs-recipe.md) and adjust pH if necessary.
 
 Storage: at room temperature for up to 2 years.
 

@@ -42,7 +42,7 @@ Dilute 1:10 with distilled water before use and adjust pH if necessary.
 
 Storage: at room temperature for up to 2 years.
 
-[Recipe source](http://www.thermofisher.com/nz/en/home/technical-resources/media-formulation.160.html)
+[Recipe source.](http://www.thermofisher.com/nz/en/home/technical-resources/media-formulation.160.html)
 
 
 ## 1x PBS

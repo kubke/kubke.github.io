@@ -7,7 +7,7 @@ author: Andrea Soffe
 
 ---
 
-## Hydrogel monomer solution recipe
+# Hydrogel monomer solution recipe
 
 To make 10ml of Hydrogel Monomer solution, combine:
 
@@ -24,7 +24,7 @@ Note: keep all ingredients and the reagent on ice.
 Storage: store at -20°C until needed.
 
 
-# 10x PBS
+## 10x PBS
 
 To make a 500ml stock of 10x PBS:
 * 720mg KH2PO4
@@ -41,7 +41,7 @@ Store this solution at room temperature. Dilute 1:10 with distilled water before
 Storage: at room temperature for up to 2 years.
 
 
-# 1x PBS
+## 1x PBS
 
 To make 200ml of 1x PBS solution:
 * 20ml of 10x PBS
@@ -53,7 +53,7 @@ Adapted from https://biocare.net/wp-content/uploads/PBS940.pdf
 Storage: at room temperature for up to 2 years.
 
 
-# 16% PFA
+## 16% PFA
 
 To make 10ml of 16% PFA:
 * Add 1.6g PFA to 8ml distilled water

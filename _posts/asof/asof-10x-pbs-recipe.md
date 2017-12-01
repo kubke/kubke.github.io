@@ -7,7 +7,7 @@ author: Andrea Soffe
 
 ---
 
-## 10x PBS recipe
+# 10x PBS recipe
 
 To make a 500ml stock of 10x PBS:
 * 720mg KH2PO4

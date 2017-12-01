@@ -1,3 +1,12 @@
+---
+layout: post
+title: asof glycerol protocol
+category: techniques
+tag:
+author: Fabiana Kubke
+---
+
+
 # Asof Glycerol Protocol
 
 Dissect the hindbrain away from the rest of the embryo. Discard the rest of the embryo.

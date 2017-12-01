@@ -9,6 +9,8 @@ author: Andrea Soffe
 
 # Hydrogel monomer solution recipe
 
+## Hydrogel monomer (HM) solution
+
 To make 10ml of Hydrogel Monomer solution, combine:
 
 * 1 ml of 40% (wt/vol) acrylamide

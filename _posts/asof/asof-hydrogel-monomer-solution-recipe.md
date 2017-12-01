@@ -25,7 +25,7 @@ Note: keep all ingredients and the reagent on ice.
 
 Storage: store at -20°C until needed.
 
-[Recipe source](http://www.nature.com.ezproxy.auckland.ac.nz/articles/nprot.2014.123.pdf).
+[Recipe source.](http://www.nature.com.ezproxy.auckland.ac.nz/articles/nprot.2014.123.pdf)
 
 
 ## 10x PBS
@@ -52,7 +52,7 @@ To make 200ml of 1x PBS solution:
 * 180ml of deionised water
 * Check pH. If necessary, adjust to 7.3 + 0.1 at room temperature
 
-[Recipe source](https://biocare.net/wp-content/uploads/PBS940.pdf)
+[Recipe source.](https://biocare.net/wp-content/uploads/PBS940.pdf)
 
 Storage: at room temperature for up to 2 years.
 
@@ -65,6 +65,6 @@ To make 10ml of 16% PFA:
 * Add 1-2 drops of 1 n NaOH, as PFA requires the solution to have a basic pH before it will dissolve.
 * Add distilled water to make the solution up to 10ml
 
-[Recipe source](http://cshprotocols.cshlp.org/content/2014/9/pdb.rec084350.full?text_only=true)
+[Recipe source.](http://cshprotocols.cshlp.org/content/2014/9/pdb.rec084350.full?text_only=true)
 
 Storage: at 4°C [[[[[[[[[[[for up to one month]]]]]]]]]]]]

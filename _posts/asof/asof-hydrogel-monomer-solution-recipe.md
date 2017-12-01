@@ -15,7 +15,7 @@ To make 10ml of Hydrogel Monomer solution, combine:
 
 * 1 ml of 40% (wt/vol) acrylamide
 * 0.25 ml of 2% (wt/vol) bisacrylamide
-* 1 ml of 10× PBS
+* 1 ml of [10× PBS] (https://github.com/ansoffe/kubke.github.io-1/blob/master/_posts/asof/asof-10x-pbs-recipe.md)
 * 2.5 ml of 16% (wt/vol) PFA
 * 5.25 ml of distilled water
 * 0.025 g of VA-044 thermal initiator
@@ -26,23 +26,6 @@ Note: keep all ingredients and the reagent on ice.
 Storage: store at -20°C until needed.
 
 [Recipe source.](http://www.nature.com.ezproxy.auckland.ac.nz/articles/nprot.2014.123.pdf)
-
-
-## 10x PBS
-
-To make a 500ml stock of 10x PBS:
-* 720mg KH2PO4
-* 45000mg NaCl
-* 3975mg Na2HPO4-7H2O
-* Add these to 400ml distilled water
-* Adjust pH to 7.4 with 1 N NaOH
-* Make up the volume to 500ml with distilled water
-
-Dilute 1:10 with distilled water before use and adjust pH if necessary.
-
-Storage: at room temperature for up to 2 years.
-
-[Recipe source.](http://www.thermofisher.com/nz/en/home/technical-resources/media-formulation.160.html)
 
 
 ## 1x PBS

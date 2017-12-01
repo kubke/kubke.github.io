@@ -7,4 +7,18 @@ author: Andrea Soffe
 
 ---
 
-# Hydrogel monomer solution recipe
+## Hydrogel monomer solution recipe
+
+To make 10ml of Hydrogel Monomer solution, combine:
+
+* 1 ml of 40% (wt/vol) acrylamide
+* 0.25 ml of 2% (wt/vol) bisacrylamide
+* 1 ml of 10× PBS
+* 2.5 ml of 16% (wt/vol) PFA
+* 5.25 ml of distilled water
+* 0.025 g of VA-044 thermal initiator
+
+Note: wt/vol = weight/volume.
+Note: keep all ingredients and the reagent on ice.
+
+Storage: store at -20°C until needed.

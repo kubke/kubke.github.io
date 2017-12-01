@@ -26,15 +26,3 @@ Note: keep all ingredients and the reagent on ice.
 Storage: store at -20°C until needed.
 
 [Recipe source.](http://www.nature.com.ezproxy.auckland.ac.nz/articles/nprot.2014.123.pdf)
-
-
-## 1x PBS
-
-To make 200ml of 1x PBS solution:
-* 20ml of 10x PBS
-* 180ml of deionised water
-* Check pH. If necessary, adjust to 7.3 + 0.1 at room temperature
-
-Storage: at room temperature for up to 2 years.
-
-[Recipe source.](https://biocare.net/wp-content/uploads/PBS940.pdf)

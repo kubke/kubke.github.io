@@ -23,6 +23,6 @@ To make 10ml of Hydrogel Monomer solution, combine:
 Note: wt/vol = weight/volume.
 Note: keep all ingredients and the reagent on ice.
 
-Storage: store at -20°C until needed.
+Storage: store at -20°C until needed (can be stored for several weeks).
 
 [Recipe source.](http://www.nature.com.ezproxy.auckland.ac.nz/articles/nprot.2014.123.pdf)

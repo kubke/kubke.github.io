@@ -2,7 +2,7 @@
 layout: post
 title: Hydrogel monomer solution recipe
 category: Recipes
-tag:
+tag: hydrogel monomer solution
 author: Andrea Soffe
 
 ---

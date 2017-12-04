@@ -7,9 +7,7 @@ author: Andrea Soffe
 
 ---
 
-# Hydrogel monomer solution recipe
-
-## Hydrogel monomer (HM) solution
+# Hydrogel monomer (HM) solution recipe
 
 To make 10ml of Hydrogel Monomer solution, combine:
 

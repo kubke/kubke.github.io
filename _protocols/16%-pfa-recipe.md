@@ -15,6 +15,6 @@ To make 10ml of 16% PFA:
 * Add 1-2 drops of 1 n NaOH, as PFA requires the solution to have a basic pH before it will dissolve.
 * Add distilled water to make the solution up to 10ml
 
-Storage: at 4°C [[[[[[[[[[[for up to one month]]]]]]]]]]]]
+Storage: at 4°C for no more than 1 week.
 
 [Recipe source.](http://cshprotocols.cshlp.org/content/2014/9/pdb.rec084350.full?text_only=true)

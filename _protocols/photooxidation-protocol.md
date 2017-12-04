@@ -17,7 +17,7 @@ Raju Tomer, Li Ye, Brian Hsueh, Karl Deisseroth (2014) Advanced CLARITY for rapi
 
 
 1. Prepare reagents.  
-   a) Refer to reagent list below.  
+   a) Refer to the reagent list.  
    b) Preparation is not time consuming, so these reagents can be prepared on the day before use - or can be prepared earlier than this and stored at 2-8°C (DAB solution) and 4°C (Tris-HCl buffer), as they are stable.  
 
 2. Dissect a chick embryo and label the ganglia with DiI.

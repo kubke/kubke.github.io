@@ -9,7 +9,7 @@ author: Andrea Soffe
 
 # Photo-oxidation protocol
 
-Sourced from [Photoconversion of diaminobenzidine with different fluorescent neuronal markers into a light and electron microscopic dense reaction product] (http://onlinelibrary.wiley.com.ezproxy.auckland.ac.nz/doi/10.1002/jemt.1070240103/epdf), written with reference to the section 'Photoconversion of the Carbocyanide Dyes DiI and DiO: Application for Light Microscopy'.
+Sourced from [Photoconversion of diaminobenzidine with different fluorescent neuronal markers into a light and electron microscopic dense reaction product](http://onlinelibrary.wiley.com.ezproxy.auckland.ac.nz/doi/10.1002/jemt.1070240103/epdf), written with reference to the section 'Photoconversion of the Carbocyanide Dyes DiI and DiO: Application for Light Microscopy'.
 
 Ref: Lübke J (1993) Photoconversion of diaminobenzidine with different fluorescent neuronal markers into a light and electron microscopic dense reaction product. Microscopy Research and Technique 24:2-14.
 Raju Tomer, Li Ye, Brian Hsueh, Karl Deisseroth (2014) Advanced CLARITY for rapid and high-resolution imaging of intact tissues. Nature Protocols (London) 9:1682.

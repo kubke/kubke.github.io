@@ -7,12 +7,12 @@ author: Andrea Soffe
 
 ---
 
-# 10x Phosphate-Buffered Saline (PBS) recipe
+# 10x Phosphate-Buffered Saline (PBS) for hydrogel recipe
 
 To make a 500ml stock of 10x PBS:
-* 720mg KH2PO4
-* 45000mg NaCl
-* 3975mg Na2HPO4-7H2O
+* 720mg (0.7g) KH2PO4
+* 45000mg (45g) NaCl
+* 2105mg (2.1g) anhydrous Na2HPO4
 * Add these to 400ml distilled water
 * Adjust pH to 7.4 with 1 N NaOH
 * Make up the volume to 500ml with distilled water

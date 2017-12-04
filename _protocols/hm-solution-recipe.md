@@ -13,7 +13,7 @@ To make 10ml of Hydrogel Monomer solution, combine:
 
 * 1 ml of 40% (wt/vol) acrylamide
 * 0.25 ml of 2% (wt/vol) bisacrylamide
-* 1 ml of [10x PBS](https://github.com/ansoffe/kubke.github.io-1/blob/master/_posts/asof/asof-10x-pbs-recipe.md)
+* 1 ml of [10x PBS](https://github.com/ansoffe/kubke.github.io/blob/master/_protocols/10x-pbs-recipe.md)
 * 2.5 ml of [16% (wt/vol) PFA](https://github.com/ansoffe/kubke.github.io-1/blob/master/_posts/asof/asof-16-pfa-recipe.md)
 * 5.25 ml of distilled water
 * 0.025 g of VA-044 thermal initiator

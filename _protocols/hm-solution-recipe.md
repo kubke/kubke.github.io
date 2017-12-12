@@ -7,9 +7,9 @@ author: Andrea Soffe
 
 ---
 
-# Hydrogel monomer (HM) solution recipe
+# Hydrogel monomer (HM) solution recipe (STIFF GEL)
 
-To make 5ml of Hydrogel Monomer solution, combine:
+To make 5ml of Hydrogel Monomer solution (STIFF GEL), combine:
 
 * 0.75ml (750uL) of 40% (wt/vol) acrylamide solution
 * 0.375ml (375uL) of 2% (wt/vol) bisacrylamide solution

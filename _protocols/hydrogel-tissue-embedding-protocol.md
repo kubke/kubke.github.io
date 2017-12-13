@@ -37,8 +37,10 @@ NOTE: Carry out steps 5 - 9 in a fume hood, as the HM solution is toxic.
 
 9. Open the chamber just enough to reach the tube, and then tighten the lid while continuously purging with nitrogen gas. This is to remove all the oxygen (because oxygen inhibits hydrogel polymerization, so we want to remove as much oxygen as possible).
 
-10. Put the air-tight closed conical tube into the incubator at 37 °C until it has polymerised.
-Note: Gentle shaking helps in heat transfer for achieving robust and uniform polymerization. 
+10. Put the air-tight closed conical tube into the incubator at 37 °C until it has polymerised.  
+
+Note: Gentle shaking helps in heat transfer for achieving robust and uniform polymerization.  
+
 Troubleshooting: If hydrogel does not polymerise, repeat the degassing step and transfer the tube to 37 °C again. Note that lower acrylamide concentration (such as 0.5% (wt/vol)) hydrogels do not solidify fully upon polymerization. Therefore, the degassing step is especially crucial.
  
 11. Once polymerisation has occurred, carefully extract the brain (or other tissues) from solidified hydrogel by softly rubbing all the hydrogel from the surface (wearing gloves).

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hydrogel monomer solution protocol
+title: Hydrogel monomer solution preparation protocol
 category: Techniques
 tag: hydrogel monomer solution
 author: Andrea Soffe

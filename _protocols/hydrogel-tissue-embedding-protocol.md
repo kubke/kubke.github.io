@@ -27,7 +27,7 @@ Ref: Raju Tomer, Li Ye, Brian Hsueh, Karl Deisseroth (2014) Advanced CLARITY for
 
 NOTE: Carry out steps 5 - 9 in a fume hood, as the HM solution is toxic.
 
-5. Place the embryo in 1ml of HM solution in a 1ml tube. Incubate the embryo at 4°C for 4 days.
+5. Thaw the pre-prepared HM solution on ice or in the fridge (4°C). Gently mix the thawed monomer solution by inverting. Place the embryo in 1ml of HM solution in a plastic tube. Incubate the embryo at 4°C for 4 days with gentle shaking - helps heat transfer to get good polymerization (as per troubleshooting 1).
 
 6. To remove oxygen from the sample, place the 1ml tube on a rack in a desiccation chamber. Partially open the cap of the tube to allow gas exchange.
 

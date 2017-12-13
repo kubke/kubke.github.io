@@ -23,7 +23,7 @@ Ref: Raju Tomer, Li Ye, Brian Hsueh, Karl Deisseroth (2014) Advanced CLARITY for
 
 3. Incubate the labelled embryo overnight at 37°C in 3ml 1x PBS to allow the DiI to travel the length of the neurons.
 
-4. Take the chick embryo (with DiI labelled) and incubate in 1ml ice-cold 1× PBS for 4 days.
+4. Take the chick embryo (with DiI labelled) and incubate in 3ml ice-cold 1× PBS for 4 days.
 
 NOTE: Carry out steps 5 - 9 in a fume hood, as the HM solution is toxic.
 

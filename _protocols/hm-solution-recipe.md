@@ -23,4 +23,6 @@ Note: keep all ingredients and the reagent on ice.
 
 Storage: store at -20°C until needed (can be stored for several weeks).
 
+For more detailed instructions on preparation of the HM solution, refer to [Hydrogel monomer solution preparation protocol](https://github.com/ansoffe/kubke.github.io/blob/master/_protocols/hm-solution-preparation-protocol.md).
+
 [Recipe source.](http://www.nature.com.ezproxy.auckland.ac.nz/articles/nprot.2014.123.pdf)

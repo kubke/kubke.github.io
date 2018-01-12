@@ -1,7 +1,7 @@
 ---
 layout: post
 title: capillary needle preparation
-category: recipes
+category: techniques
 tag:
 author: Andrea Soffe, Fabiana Kubke
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4% PFA recipe
+title: 4% pfa recipe
 category: recipes
 tag:
 author: Fabiana Kubke

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Capillary needle preparation
-category: Recipes
+title: capillary needle preparation
+category: recipes
 tag:
 author: Andrea Soffe
 

@@ -24,4 +24,4 @@ Note: The tube can move a little. Too tight, and the tube will break. Too loose 
 
 7. Press start.
 8. Remove tubes carefully.
-9. Turn off ON/OFF switch.
+9. Once enough needles have been produced, turn off ON/OFF switch.

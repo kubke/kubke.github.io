@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hydrogel tissue embedding protocol
-category: Techniques
+title: hydrogel tissue embedding protocol
+category: techniques
 tag:
 author: Andrea Soffe
 
@@ -27,17 +27,17 @@ Ref: Raju Tomer, Li Ye, Brian Hsueh, Karl Deisseroth (2014) Advanced CLARITY for
 
 Note: Carry out steps 5 - 9 in a fume hood, as the HM solution is toxic.
 
-5. Thaw the pre-prepared HM solution on ice or in the fridge (4°C). Gently mix the thawed monomer solution by inverting. Place the embryo in 1ml of HM solution in a plastic tube. Incubate the embryo at 4°C for 4 days (on a rocker to provide gentle shaking).
+5. Thaw the pre-prepared HM solution on ice or in the fridge (4°C). Gently mix the thawed monomer solution by inverting. Place the embryo in 1ml of HM solution in an eppendorf tube. Incubate the embryo at 4°C for 4 days (on a rocker to provide gentle shaking).
 
-6. To remove oxygen from the sample, place the plastic tube in a small beaker (containing ice) in a desiccation chamber. Partially open the cap of the tube to allow gas exchange.
+6. To remove oxygen from the sample, place the eppendorf tube in a small beaker (containing ice) in a desiccation chamber. Partially open the cap of the tube to allow gas exchange.
 
 7. Turn on the nitrogen flow to fill the desiccation chamber with nitrogen gas. Turn off the nitrogen flow when the lid of the chamber moves easily (should take ~4 seconds for this to occur).
 
 8. Use the following protocol to remove oxygen from the chamber and replace with nitrogen gas. 1 minute vacuum, ~4 seconds nitrogen (or until desiccation chamber lid moves easily), and repeat this for a total of 10 times.
 
-9. Open the chamber just enough to reach the tube, and then tighten the lid while continuously purging with nitrogen gas. This is to remove all the oxygen (because oxygen inhibits hydrogel polymerization, so we want to remove as much oxygen as possible).
+9. Open the chamber just enough to reach the tube, and then close the lid while continuously purging with nitrogen gas. This is to remove all the oxygen (because oxygen inhibits hydrogel polymerization, so we want to remove as much oxygen as possible).
 
-10. Put the air-tight closed conical tube into the incubator at 37 °C until it has polymerised.  
+10. Put the closed eppendorf tube into the incubator at 37 °C until it has polymerised.  
 
 Note: Gentle shaking helps in heat transfer for achieving robust and uniform polymerization, but is not necessary for successful polymerisation.  
 

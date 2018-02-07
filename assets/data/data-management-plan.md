@@ -31,7 +31,7 @@ Slices will be mounted in a precise order with the slice first cut (usually most
 
 ![Image](https://github.com/ansoffe/kubke.github.io/blob/master/assets/data/data-management-plan.png)
 
-Electronic data will be stored on Github, within the repository “kubke.github.io” (URL: https://github.com/ansoffe/kubke.github.io). Images will be stored in the folder “_data”. Notes concerning each embryo will be stored in the folder “_posts”. Protocols will be stored in the folder “_protocols”. This information is also stored locally on asof’s PC, as a backup to prevent loss of data.
+Electronic data will be stored on Github, within the repository “kubke.github.io” (URL: https://github.com/ansoffe/kubke.github.io). Images will be stored in the folder !["_data"](https://github.com/ansoffe/kubke.github.io/tree/master/_data). Notes concerning each embryo will be stored in the folder ![“_posts”](https://github.com/ansoffe/kubke.github.io/tree/master/_posts). Protocols will be stored in the folder ![“_protocols”](https://github.com/ansoffe/kubke.github.io/tree/master/_protocols). This information is also stored locally on asof’s PC, as a backup to prevent loss of data.
 
 ## Data Formats
 

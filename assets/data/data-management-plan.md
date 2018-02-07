@@ -1,5 +1,7 @@
 # Data Management Plan
 
+Project: Development of cranial nerve components in the chicken embryo.
+
 ## Contributors and Time Period
 
 Period of time over which data will be generated: 24/07/17 - 01/11/18. This includes three periods during which the one overall project will be carried out. The three periods are: 

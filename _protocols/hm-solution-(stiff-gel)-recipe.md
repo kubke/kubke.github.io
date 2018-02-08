@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hydrogel monomer solution recipe
-category: Recipes
+title: hydrogel monomer solution (stiff gel) recipe
+category: recipes
 tag: hydrogel monomer solution
-author: Andrea Soffe
+author: andrea soffe
 
 ---
 

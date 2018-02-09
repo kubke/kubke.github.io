@@ -2,7 +2,7 @@
 layout: post
 title: hydrogel monomer solution (stiff gel) preparation protocol
 category: techniques
-tag: hydrogel monomer solution
+tag: hydrogel monomer solution, stiff gel
 author: andrea soffe
 
 ---

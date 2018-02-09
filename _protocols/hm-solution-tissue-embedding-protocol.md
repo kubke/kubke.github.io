@@ -37,7 +37,7 @@ Note: Carry out steps 5 - 9 in a fume hood, as the HM solution is toxic.
 
 9. Open the chamber just enough to reach the tube, and then close the lid while continuously purging with nitrogen gas. This is to remove all the oxygen (because oxygen inhibits hydrogel polymerization, so we want to remove as much oxygen as possible).
 
-10. Put the closed eppendorf tube into the incubator at 37 °C until it has polymerised.  
+10. Put the closed eppendorf tube into the incubator at 37 °C until the HM solution has polymerised.  
 
 Note: Gentle shaking helps in heat transfer for achieving robust and uniform polymerization, but is not necessary for successful polymerisation.  
 

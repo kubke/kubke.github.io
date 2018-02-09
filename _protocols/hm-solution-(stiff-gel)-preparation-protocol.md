@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hydrogel monomer solution preparation protocol
-category: Techniques
-tag: hydrogel monomer solution
-author: Andrea Soffe
+title: hydrogel monomer solution (stiff gel) preparation protocol
+category: techniques
+tag: hydrogel monomer solution, stiff gel
+author: andrea soffe
 
 ---
 
@@ -14,9 +14,9 @@ author: Andrea Soffe
 | ------------- | ------------- |
 | 0.75ml (750uL) | 40% (wt/vol) acrylamide solution |
 | 0.375ml (375uL) | 2% (wt/vol) bisacrylamide solution |
-| 0.5ml (500uL)	| “10× PBS (hydrogel)” |
+| 0.5ml (500uL)	| ![“10× PBS (hydrogel)”](https://github.com/ansoffe/kubke.github.io/blob/master/_protocols/10x-pbs-recipe.md) |
 | 2.5ml (2500uL) | 8% (wt/vol) PFA |
-| 0.875ml (875uL) | Distilled water |
+| 0.875ml (875uL) | distilled water |
 | 0.0125g (12.5mg) | VA-044 thermal initiator |
 
 ## Preparation of HM solution:
@@ -37,4 +37,4 @@ author: Andrea Soffe
 
 8. Weigh out 0.0125g of VA-044 thermal initiator and add to the 5ml beaker. Mix the solutions and place the tube into the bucket of ice.
 
-9. Pipette into 1ml aliquots and place into 5 plastic tubes. Store at -20°C.
+9. Pipette 1ml aliquots into 5 eppendorf tubes. Store at -20°C.

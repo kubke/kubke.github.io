@@ -37,4 +37,4 @@ author: andrea soffe
 
 8. Weigh out 0.0125g of VA-044 thermal initiator and add to the 5ml beaker. Mix the solutions and place the tube into the bucket of ice.
 
-9. Pipette into 1ml aliquots and place into 5 plastic tubes. Store at -20°C.
+9. Pipette 1ml aliquots into 5 eppendorf tubes. Store at -20°C.

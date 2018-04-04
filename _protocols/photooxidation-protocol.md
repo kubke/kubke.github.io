@@ -19,7 +19,7 @@ Ref: Lübke J (1993) Photoconversion of diaminobenzidine with different fluoresce
    b) Tris-HCl Buffer should be made the day before use or earlier and stored at 4°C or room temperature, since it takes a few hours to prepare. DAB solution must be prepared immediately before use.
    c) DAB solution must be kept in a fume hood unless in a sealed container.
 
-2. To photo-oxidise a wholemount embryo, carry out this protocol on a stage 28 chick embryo with cranial nerve ganglia labelled with DiI. To photo-oxidise embryo slices, embed a stage 28 chick embryo as instructed in the ![tissue embedding protocol](https://github.com/ansoffe/kubke.github.io/blob/master/_protocols/hm-solution-tissue-embedding-protocol.md), and cut according to the ![sectioning protocol](https://github.com/ansoffe/kubke.github.io/blob/master/_protocols/embryo-sectioning-protocol.md).
+2. To photo-oxidise a wholemount embryo, carry out this protocol on a stage 13-28 chick embryo with cranial nerve ganglia labelled with DiI. To photo-oxidise embryo slices, embed a chick embryo as instructed in the ![tissue embedding protocol](https://github.com/ansoffe/kubke.github.io/blob/master/_protocols/hm-solution-tissue-embedding-protocol.md), and cut according to the ![sectioning protocol](https://github.com/ansoffe/kubke.github.io/blob/master/_protocols/embryo-sectioning-protocol.md).
 
 3. Equilibrate the tissue in Tris-HCl buffer for the following times
 

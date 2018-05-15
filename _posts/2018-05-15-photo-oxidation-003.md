@@ -27,6 +27,10 @@ Image photoox003_001 - taken at the beginning of photo-oxidation, when the secti
 
 Image photoox003_002 - taken after two hours of photo-oxidation. Shows that fluorescence is still present. Some DAB product substrate is present, but could not be captured with the camera. ![Image photoox003_002](https://github.com/ansoffe/kubke.github.io/blob/master/_data/photoox003_002.png)
 
-Image photoox003_003 - taken after 4.5 hours of photo-oxidation. Shows that the fluorescence has faded slightly, but not much. ![Image photoox003_003](https://github.com/ansoffe/kubke.github.io/blob/master/_data/photoox003_003.png)
+Image photoox003_003 - taken after 4.5 hours of photo-oxidation. Shows that the fluorescence has faded slightly, but not much.
 
-Image photoox003_004 - taken after 5 hours of photo-oxidation. Shows that fluorescence in the section is dimmer but still present. ![Image photoox003_004](https://github.com/ansoffe/kubke.github.io/blob/master/_data/photoox003_004.png)
+![Image photoox003_003](https://github.com/ansoffe/kubke.github.io/blob/master/_data/photoox003_003.png)
+
+Image photoox003_004 - taken after 5 hours of photo-oxidation. Shows that fluorescence in the section is dimmer but still present.
+
+![Image photoox003_004](https://github.com/ansoffe/kubke.github.io/blob/master/_data/photoox003_004.png)

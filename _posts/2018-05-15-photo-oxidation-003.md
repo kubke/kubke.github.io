@@ -16,7 +16,7 @@ Mfk made the 2mg/ml DAB solution (100mg of DAB in 50ml of 0.1M Tris-HCl buffer (
 
 The asof011 section was transferred to 2mg/ml DAB solution and allowed to preincubate, on ice, in the dark, for 20 minutes.
 
-The section was then transferred into fresh DAB and placed under the non-dissecting fluorescence microscope using the red filter (filter #3), on ice. The DAB solution was replaced every 15-20 minutes for 5 hours. Each time the DAB solution was replaced, the ice was also replaced. Four photographs were taken throughout the photo-oxidation period, as detailed below.
+The section was then transferred into fresh DAB and placed under the dissecting fluorescence microscope using the filter ET-CY3 (red filter), on ice. The DAB solution was replaced every 15-20 minutes for 5 hours. Each time the DAB solution was replaced, the ice was also replaced. Four photographs were taken throughout the photo-oxidation period, as detailed below.
 
 After five hours of photo-oxidation, the section was transferred into 0.1M Tris-HCl buffer (pH 7.7) for three washes, lasting 15 minutes each. The section was stored at room temperature in 0.1M Tris-HCl buffer (pH 7.7).
 
